@@ -1,6 +1,6 @@
 <%@ page import="java.util.List" %>
-<%@ page import="hello.springMVC1.domain.member.MemberRepository" %>
-<%@ page import="hello.springMVC1.domain.member.Member" %>
+<%@ page import="hello.springmvc1.domain.member.MemberRepository" %>
+<%@ page import="hello.springmvc1.domain.member.Member" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     MemberRepository memberRepository = MemberRepository.getInstance();
