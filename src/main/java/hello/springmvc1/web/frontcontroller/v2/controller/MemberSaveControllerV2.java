@@ -4,7 +4,6 @@ import hello.springmvc1.domain.member.Member;
 import hello.springmvc1.domain.member.MemberRepository;
 import hello.springmvc1.web.frontcontroller.MyView;
 import hello.springmvc1.web.frontcontroller.v2.ControllerV2;
-import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

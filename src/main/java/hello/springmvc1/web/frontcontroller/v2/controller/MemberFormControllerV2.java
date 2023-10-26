@@ -1,9 +1,7 @@
 package hello.springmvc1.web.frontcontroller.v2.controller;
 
 import hello.springmvc1.web.frontcontroller.MyView;
-import hello.springmvc1.web.frontcontroller.v1.ControllerV1;
 import hello.springmvc1.web.frontcontroller.v2.ControllerV2;
-import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
